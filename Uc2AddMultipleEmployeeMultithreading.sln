@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uc2AddMultipleEmployeeMultithreading", "Uc2AddMultipleEmployeeMultithreading\Uc2AddMultipleEmployeeMultithreading.csproj", "{F430B9D8-CFD2-4946-86DE-2AA93E422751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{0E4E059B-0369-4E13-888F-09975FDC9CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F430B9D8-CFD2-4946-86DE-2AA93E422751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F430B9D8-CFD2-4946-86DE-2AA93E422751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F430B9D8-CFD2-4946-86DE-2AA93E422751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F430B9D8-CFD2-4946-86DE-2AA93E422751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E4E059B-0369-4E13-888F-09975FDC9CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4E059B-0369-4E13-888F-09975FDC9CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4E059B-0369-4E13-888F-09975FDC9CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4E059B-0369-4E13-888F-09975FDC9CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4122A6EB-AEB6-40E9-AB3F-CE641AF594B4}
+	EndGlobalSection
+EndGlobal
