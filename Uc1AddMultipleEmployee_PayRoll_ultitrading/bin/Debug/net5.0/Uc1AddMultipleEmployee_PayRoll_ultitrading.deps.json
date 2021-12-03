@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uc1AddMultipleEmployee_PayRoll_ultitrading/1.0.0": {
+        "runtime": {
+          "Uc1AddMultipleEmployee_PayRoll_ultitrading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc1AddMultipleEmployee_PayRoll_ultitrading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
