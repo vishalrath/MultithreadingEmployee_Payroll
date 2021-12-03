@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\bin\Debug\net5.0\U4multithreading.exe
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\bin\Debug\net5.0\U4multithreading.deps.json
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\bin\Debug\net5.0\U4multithreading.runtimeconfig.json
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\bin\Debug\net5.0\U4multithreading.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\bin\Debug\net5.0\U4multithreading.dll
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\bin\Debug\net5.0\ref\U4multithreading.dll
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\bin\Debug\net5.0\U4multithreading.pdb
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\obj\Debug\net5.0\U4multithreading.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\obj\Debug\net5.0\U4multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\obj\Debug\net5.0\U4multithreading.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\obj\Debug\net5.0\U4multithreading.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\obj\Debug\net5.0\U4multithreading.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\obj\Debug\net5.0\U4multithreading.dll
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\obj\Debug\net5.0\ref\U4multithreading.dll
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\obj\Debug\net5.0\U4multithreading.pdb
+C:\Users\Vishal\source\repos\U4multithreading\U4multithreading\obj\Debug\net5.0\U4multithreading.genruntimeconfig.cache
