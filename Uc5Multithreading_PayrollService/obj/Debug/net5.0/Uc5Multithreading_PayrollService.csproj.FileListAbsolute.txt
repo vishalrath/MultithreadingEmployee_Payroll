@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\bin\Debug\net5.0\Uc5Multithreading_PayrollService.exe
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\bin\Debug\net5.0\Uc5Multithreading_PayrollService.deps.json
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\bin\Debug\net5.0\Uc5Multithreading_PayrollService.runtimeconfig.json
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\bin\Debug\net5.0\Uc5Multithreading_PayrollService.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\bin\Debug\net5.0\Uc5Multithreading_PayrollService.dll
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\bin\Debug\net5.0\ref\Uc5Multithreading_PayrollService.dll
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\bin\Debug\net5.0\Uc5Multithreading_PayrollService.pdb
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\obj\Debug\net5.0\Uc5Multithreading_PayrollService.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\obj\Debug\net5.0\Uc5Multithreading_PayrollService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\obj\Debug\net5.0\Uc5Multithreading_PayrollService.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\obj\Debug\net5.0\Uc5Multithreading_PayrollService.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\obj\Debug\net5.0\Uc5Multithreading_PayrollService.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\obj\Debug\net5.0\Uc5Multithreading_PayrollService.dll
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\obj\Debug\net5.0\ref\Uc5Multithreading_PayrollService.dll
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\obj\Debug\net5.0\Uc5Multithreading_PayrollService.pdb
+C:\Users\Vishal\source\repos\Uc5Multithreading_PayrollService\Uc5Multithreading_PayrollService\obj\Debug\net5.0\Uc5Multithreading_PayrollService.genruntimeconfig.cache
